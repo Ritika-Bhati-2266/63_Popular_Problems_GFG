@@ -12,7 +12,7 @@
 
 ## 📈 Progress
 
-`█████░░░░░░░░░░░░░░░░░░░░░░░░░ 13 / 63 — 21%`
+`█████░░░░░░░░░░░░░░░░░░░░░░░░░ 15 / 63 — 24%`
 
 ---
 
@@ -46,10 +46,10 @@
 | 11 | Print In Python | ✅ Solved |
 | 12 | Calculator | ✅ Solved |
 | 13 | Even Positioned Characters | ✅ Solved |
-| 14 | While loop in Python | ⏳ Pending |
+| 14 | While loop in Python | ✅ Solved |
 | 15 | Test if tuple is distinct | ⏳ Pending |
 | 16 | Reverse a String | ⏳ Pending |
-| 17 | Welcome aboard - Python | ⏳ Pending |
+| 17 | Welcome aboard - Python | ✅ Solved |
 | 18 | String Functions I - Python | ⏳ Pending |
 | 19 | Find index | ⏳ Pending |
 | 20 | String Functions - II - Python | ⏳ Pending |
