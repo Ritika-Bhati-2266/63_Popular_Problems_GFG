@@ -1,0 +1,5 @@
+def utility(s):
+    #code here
+    for i in s[0: :+2]:
+        print(i, end="")
+        
