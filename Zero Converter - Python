@@ -1,0 +1,14 @@
+def pos(n):
+    ## Write the code
+    arr= [] 
+    if n>0:
+        for i in range(n-1,-1,-1):
+            print(i, end=" ")
+        
+    
+def neg(n):
+    ##Write the code
+    arr=[]
+    if n<0:
+        for i in range(n, 1, 1):
+            print(i, end=" ")
