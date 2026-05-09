@@ -1,3 +1,19 @@
+# 63 Popular Problems – GFG (Python)
+
+![Progress](https://img.shields.io/badge/Solved-13%2F63-brightgreen?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-blue?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-GeeksforGeeks-darkgreen?style=flat-square)
+
+A collection of Python solutions to the **63 Popular Problems** series on [GeeksforGeeks](https://www.geeksforgeeks.org/), covering beginner to intermediate Python programming topics.
+
+---
+
+## 📊 Progress
+
+**13 of 63 Problems Solved — 21%**
+
+`█████░░░░░░░░░░░░░░░░░░░░░░░░░ 21%`
+
 ---
 
 ## 📁 Files in This Repo
@@ -80,13 +96,11 @@
 
 ## 🚀 How to Run
 
-Each file is a standalone Python script. Clone the repo and run any file directly:
+Clone the repo and run any file directly:
 
-```bash
-git clone https://github.com/Ritika-Bhati-2266/63_Popular_Problems_GFG.git
-cd 63_Popular_Problems_GFG
-python "The FizzBuzz Program"
-```
+    git clone https://github.com/Ritika-Bhati-2266/63_Popular_Problems_GFG.git
+    cd 63_Popular_Problems_GFG
+    python "The FizzBuzz Program"
 
 ---
 
