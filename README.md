@@ -5,7 +5,7 @@
 ![Platform](https://img.shields.io/badge/Platform-GeeksforGeeks-orange?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
 
-> Solving the **63 Popular Problems** on GeeksforGeeks using Python.  
+> Solving the **64 Popular Problems** on GeeksforGeeks using Python.  
 > Topics range from basic syntax to NumPy, OOP, SQL, and more!
 
 ---
