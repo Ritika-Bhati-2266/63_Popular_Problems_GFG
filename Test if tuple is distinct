@@ -1,0 +1,7 @@
+arr = tuple(map(int, input().split()))
+# code here
+new_set = set(arr)
+if len(new_set) == len(arr):
+    print("True")
+else:
+    print("False")
