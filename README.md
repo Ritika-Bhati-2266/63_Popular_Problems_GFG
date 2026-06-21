@@ -1,4 +1,4 @@
-# 64 Popular Problems – GFG 🐍
+# 57 Popular Problems – GFG 🐍
 
 ![Solved](https://img.shields.io/badge/Solved-13%2F63-brightgreen?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-Python-blue?style=flat-square)
